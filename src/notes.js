@@ -4,7 +4,7 @@ const notes = [
     title: '',
     createdAt: '',
     updatedAt: '',
-    tags: [],
+    tags: [''],
     body: ''
   }
 ]
